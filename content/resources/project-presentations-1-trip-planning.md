@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Week 7: Trip Planning and Preparations'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Project Presentations 1: Trip Planning '
 uid: 67e18e37-0c68-be4f-026e-43718c40e7c0

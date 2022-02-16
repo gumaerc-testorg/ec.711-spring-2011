@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lecture 6 slides (PDF - 2.4MB)](resources/mitec_711s11_lec06)'
+parent_title: 'Week 6: Cooking, Stoves & Fuel'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture  6: Cooking, Stoves & Fuel'
 uid: 12b632ef-12ca-accb-8031-afd33f06de48

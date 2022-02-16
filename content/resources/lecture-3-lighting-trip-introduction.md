@@ -2,6 +2,16 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lecture 3 slides (PDF - 4.6MB)](resources/mitec_711s11_lec03)
+
+
+  [Lighting "quiz" (PDF)](resources/mitec_711s11_lec3_ho1)'
+parent_title: 'Week 3:  Lighting, Biogas'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Lighting; Trip Introduction '
 uid: 72ae1302-68e0-4532-2088-ec31fa291b22

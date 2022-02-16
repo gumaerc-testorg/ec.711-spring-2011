@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 2: Energy Storage; Measurement Lab'
+parent_type: CourseSection
 parent_uid: bd09c1cc-93fd-481d-3945-6e105dc16816
 title: Lab 2 Writeup Assignment
 uid: 5e62a2ae-6757-222a-296a-99da52f7bade

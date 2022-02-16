@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 8: Community Partner Trips'
 uid: fb9d6e56-eac4-97fb-24b4-6d3ac31a62da
 videos:

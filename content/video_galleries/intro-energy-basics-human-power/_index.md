@@ -1,6 +1,8 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 1: Introduction, Energy Basics & Human Power'
 uid: 32a22e0d-e0ad-d673-42ce-41445297fce7
 videos:

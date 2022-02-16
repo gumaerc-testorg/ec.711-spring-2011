@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 3:  Lighting, Biogas'
+parent_type: CourseSection
 parent_uid: 70e2edb1-3971-cd3b-0091-3ae541bcdecc
 title: Problem Set 3
 uid: ca54380a-a427-6bca-928a-60120653283d

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f03094f3-6e60-d35c-d0bb-ed00551f4c2f
 ---
@@ -118,8 +120,8 @@ After each class, students will submit "muddy cards" to request more discussion 
 
 *   Worldwide CDIO Initiative. [_Muddiest Point in the Lecture (Muddy Cards)_ (PDF)](http://www.cdio.org/files/mudcards.pdf)
 
-Guidelines for Project Work During 2nd Half of Term
----------------------------------------------------
+Guidelines for Project Work During 2{{< sup "nd" >}} Half of Term
+-----------------------------------------------------------------
 
 There will be a lot of "free" time in class for project work. You still need to come to class on time and work for the entire time; instructors and mentors will be stopping by regularly to meet with your team and help you. If you will not be working in the classroom, you should leave a note on the classroom whiteboard stating where your team will be and including a cell phone we can use to track you down if need be.
 

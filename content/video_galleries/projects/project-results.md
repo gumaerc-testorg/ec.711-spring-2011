@@ -1,7 +1,11 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: b769b31f-283d-ae0e-ca5f-75068d997bdb
 title: Project Results
 uid: cc396362-e27a-a416-9fbb-66fd1cb19b76

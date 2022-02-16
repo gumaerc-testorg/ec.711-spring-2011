@@ -2,6 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: 'Readings
+
+  --------
+
+
+  *   [D-Lab Do-It Module: Fuel from the Fields Charcoal (PDF - 1.4MB)](resources/mitec_711s11_read6a)
+
+  *   [Carbonization checklist & documentation form (PDF)](resources/mitec_711s11_read6b)
+
+  *   [Briquetting checklist & documentation form (PDF)](resources/mitec_711s11_read6c)'
+parent_title: 'Week 6: Cooking, Stoves & Fuel'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 6: Charcoal Making & Stove Testing'
 uid: 773a1612-a184-f4d4-3e83-4ed4fcbd9093

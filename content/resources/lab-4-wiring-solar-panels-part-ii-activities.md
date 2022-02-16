@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lab 4 instructions and writeup](video_galleries/solar/lab-4-instructions-and-writeup)'
+parent_title: 'Week 4: Solar Energy'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 4: Wiring Solar Panels, Part II: Activities'
 uid: 97a34ce7-5fb2-a230-54a4-c6c113127714

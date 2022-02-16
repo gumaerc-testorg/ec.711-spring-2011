@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lecture 4 slides (PDF - 2.0MB)](resources/mitec_711s11_lec04)'
+parent_title: 'Week 4: Solar Energy'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Solar Energy: Photovoltaics & Solar Thermal'
 uid: e9f41fd0-6a5e-9e2f-1fab-8bef1626199b

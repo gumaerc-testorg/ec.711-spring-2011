@@ -2,6 +2,19 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lecture 1 slides (PDF - 2.1MB)](resources/mitec_711s11_lec01)
+
+
+  [Country facts "quiz" (PDF)](resources/mitec_711s11_lec01_ho1)
+
+
+  [Units check-in "quiz" (PDF)](resources/mitec_711s11_lec01_ho2)'
+parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Introduction to Energy'
 uid: 1b0190b9-ac07-7e74-7121-3af5ae8e895a

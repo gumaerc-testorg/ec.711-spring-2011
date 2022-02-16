@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 2: Energy Storage; Measurement Lab'
+parent_type: CourseSection
 parent_uid: bd09c1cc-93fd-481d-3945-6e105dc16816
 title: Lab 2 Instructions
 uid: 5e001ecb-027e-e84a-d79b-0cb04f1b0990
@@ -9,7 +12,7 @@ uid: 5e001ecb-027e-e84a-d79b-0cb04f1b0990
 Power Module
 ------------
 
-In this module, we're aiming to characterize the peak power output of the solar cell. As you may recall from our earlier class, as you change a resistive load in a circuit, the voltage and current that are outputted also change. Since we know that the _P = I2R = V2/R_, it is possible to find the maximum power output of the solar panel experimentally by measuring current and voltage at a variety of resistances. The procedure for generating this curve is as follows:
+In this module, we're aiming to characterize the peak power output of the solar cell. As you may recall from our earlier class, as you change a resistive load in a circuit, the voltage and current that are outputted also change. Since we know that the _P = I{{< sup "2" >}}R = V{{< sup "2" >}}/R_, it is possible to find the maximum power output of the solar panel experimentally by measuring current and voltage at a variety of resistances. The procedure for generating this curve is as follows:
 
 1.  Choose an orientation for the solar panel
     

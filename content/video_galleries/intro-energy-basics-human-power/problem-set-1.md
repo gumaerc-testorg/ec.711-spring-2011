@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
+parent_type: CourseSection
 parent_uid: 32a22e0d-e0ad-d673-42ce-41445297fce7
 title: Problem Set 1
 uid: 5638dda9-48ce-2cd5-f895-13c4a9b480a7

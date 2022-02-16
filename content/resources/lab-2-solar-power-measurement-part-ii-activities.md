@@ -2,6 +2,16 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lab 2 instructions](video_galleries/energy-storage/lab-2-energy-storage-solar-panel)
+
+
+  [Lab 2 writeup assignment](video_galleries/energy-storage/lab-2-energy-storage-solar-panel-write-up)'
+parent_title: 'Week 2: Energy Storage; Measurement Lab'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 2: Solar Power Measurement, Part II: Activities'
 uid: 09983496-dbeb-7fa6-9b6e-295c146cbe57

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Week 8: Community Partner Trips'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Project Presentations 2: Trip Reports'
 uid: e4f89438-12dd-19d7-73d1-a4360f2dfa01

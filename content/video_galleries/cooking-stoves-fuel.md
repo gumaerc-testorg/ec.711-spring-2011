@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 6: Cooking, Stoves & Fuel'
 uid: 40a90435-c335-4575-5ca5-aed11bc98c6a
 videos:

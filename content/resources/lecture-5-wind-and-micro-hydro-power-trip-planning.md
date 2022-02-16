@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lecture 5 slides (PDF - 2.7MB)](resources/mitec_711s11_lec05)'
+parent_title: 'Week 5: Wind and Micro-Hydro'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Wind and Micro-Hydro Power; Trip Planning'
 uid: 4181ae33-bb69-6107-9753-87a74cdbd923

@@ -2,13 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lab 1 instructions](video_galleries/intro-energy-basics-human-power/lab-1-human-power-instructions)
+
+
+  [Lab 1 homework](video_galleries/intro-energy-basics-human-power/lab-1-human-power-homework)'
+parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 1: Human Power'
 uid: b03952e4-bdfc-ea49-6227-1aeae1dedb3f
 video_files:
   archive_url: http://www.archive.org/download/MITSP.775S11/MITSP_775S11lab01_300k.mp4
   video_captions_file: null
-  video_thumbnail_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/7MzwxhtVfFc/default.jpg
   video_transcript_file: null
 video_metadata:
   youtube_id: 7MzwxhtVfFc

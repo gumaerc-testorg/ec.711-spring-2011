@@ -1,6 +1,9 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: b769b31f-283d-ae0e-ca5f-75068d997bdb
 videos:
@@ -18,8 +21,8 @@ Examples of student work can be found on the [Project Results]({{< baseurl >}}/v
 {{< video-gallery "b769b31f-283d-ae0e-ca5f-75068d997bdb" >}}
 
 
-Project Deliverables for 2nd Half of Term
------------------------------------------
+Project Deliverables for 2{{< sup "nd" >}} Half of Term
+-------------------------------------------------------
 
 ### Wiki Design Notebook
 

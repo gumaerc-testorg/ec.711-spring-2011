@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 4: Solar Energy'
+parent_type: CourseSection
 parent_uid: 97d18199-d8e1-30f9-6762-504a4894e1bc
 title: 'Lab 4 Wiring Solar Panels: Instructions and Writeup Assignment'
 uid: f14900f4-78f2-3db9-2571-93b8b3c5f9c8

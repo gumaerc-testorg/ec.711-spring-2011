@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 2: Energy Storage; Measurement Lab'
+parent_type: CourseSection
 parent_uid: bd09c1cc-93fd-481d-3945-6e105dc16816
 title: 'Problem Set 2: Personal Energy Consumption Challenge'
 uid: 8c249fc1-ff67-2f6f-b82a-52720d7b2694

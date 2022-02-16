@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lecture 7 slides (PDF - 2.2MB)](resources/mitec_711s11_lec07)'
+parent_title: 'Week 7: Trip Planning and Preparations'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Solar Cookers, Creative Capacity Building, Trip Preparation'
 uid: 98a4193c-1cdc-77fd-dd38-ec6bae808b8f

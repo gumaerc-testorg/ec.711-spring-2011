@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lab 3 instructions and writeup assignment (PDF)](resources/mitec_711s11_lab3_pres)'
+parent_title: 'Week 3:  Lighting, Biogas'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 3: Biogas and Biodigesters, Part II: Activities'
 uid: 284a0b04-cb56-51fa-1d60-257d13b0abf3

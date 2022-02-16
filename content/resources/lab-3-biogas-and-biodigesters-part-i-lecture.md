@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lab 3 slides (PDF)](resources/mitec_711s11_lab3)'
+parent_title: 'Week 3:  Lighting, Biogas'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 3: Biogas and Biodigesters, Part I: Lecture'
 uid: d38db4ad-a060-ff1f-d445-9c515fa603db

@@ -1,6 +1,8 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 3:  Lighting, Biogas'
 uid: 70e2edb1-3971-cd3b-0091-3ae541bcdecc
 videos:

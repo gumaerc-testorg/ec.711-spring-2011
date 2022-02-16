@@ -1,6 +1,8 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 2: Energy Storage; Measurement Lab'
 uid: bd09c1cc-93fd-481d-3945-6e105dc16816
 videos:

@@ -2,6 +2,38 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: 'Lab 5 Instructions
+
+  ------------------
+
+
+  *   Mussell, Dave. ["Build Your Own Wind Turbine." (PDF - 1.5MB)](resources/mitec_711s11_lab5)
+  Published by the Pembina Institute and The Ontario Trillium Foundation, 2006. (Courtesy
+  of the GreenLearning Canada Foundation ([http://www.greenlearning.ca](http://www.greenlearning.ca)
+  and [http://www.re-energy.ca](http://www.re-energy.ca)). Used with permission.)
+
+
+  Lab 5 Writeup Assignment
+
+  ------------------------
+
+
+  1.  How much voltage and current were you able to get from your turbine? Calculate
+  how much power you are producing.
+
+  2.  What kind of modifications do you think you could make to increase the output?
+
+  3.  What aspects of this project do you suspect might be difficult to accomplish
+  in the Nicaragua or a family living on $2/day2?
+
+  4.  Are there substitutes you could use to make these aspects more applicable to
+  Nicaragua or a family living on $2/day?'
+parent_title: 'Week 5: Wind and Micro-Hydro'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lab 5: Savonius Wind Turbine Construction and Testing'
 uid: b9bf46e5-9ba1-eb6f-1550-4c934e7fb9e0

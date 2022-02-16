@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
+parent_type: CourseSection
 parent_uid: 32a22e0d-e0ad-d673-42ce-41445297fce7
 title: Lab 1 Instructions
 uid: 6e9b9bab-a0f9-93d0-5be2-369160b9b3ca
@@ -17,7 +20,7 @@ We will be estimating the power output by pumping water and calculating the pres
 
 _P = p x Q_
 
-where _p_ is pressure (Pa) and _Q_ is the volumetric flow rate (_m3⁄s_)
+where _p_ is pressure (Pa) and _Q_ is the volumetric flow rate (_m{{< sup "3" >}}⁄s_)
 
 For each pump:
 
@@ -41,7 +44,7 @@ For each pump:
 Water Carrying
 --------------
 
-Try out all forms of water carrying. For each method, go from our 2nd floor class room to our 1st floor workshop and back, via the stairs.
+Try out all forms of water carrying. For each method, go from our 2{{< sup "nd" >}} floor class room to our 1{{< sup "st" >}} floor workshop and back, via the stairs.
 
 *   Tump line
 *   Head carry

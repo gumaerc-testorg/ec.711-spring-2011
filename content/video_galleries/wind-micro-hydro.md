@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 5: Wind and Micro-Hydro'
 uid: 5dd5186b-4a86-f3ff-771b-545e19e9b505
 videos:

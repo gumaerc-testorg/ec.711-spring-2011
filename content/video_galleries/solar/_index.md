@@ -1,6 +1,8 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 4: Solar Energy'
 uid: 97d18199-d8e1-30f9-6762-504a4894e1bc
 videos:

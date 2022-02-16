@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: Supporting Files
+optional_text: '[Lecture 2 slides (PDF)](resources/mitec_711s11_lec02)'
+parent_title: 'Week 2: Energy Storage; Measurement Lab'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Energy Storage & Microgrids; Trip Preview'
 uid: 8d66a4c7-40d5-7c2d-aec8-6c1e98494333
