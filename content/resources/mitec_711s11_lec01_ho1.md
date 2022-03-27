@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
 parent_type: CourseSection
+parent_uid: 32a22e0d-e0ad-d673-42ce-41445297fce7
 resourcetype: Document
 title: Country Facts "quiz"
 uid: 880ca1d8-50da-941a-c3ed-277bd2f00889

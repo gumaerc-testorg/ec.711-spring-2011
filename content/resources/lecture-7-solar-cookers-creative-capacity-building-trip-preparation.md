@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Supporting Files
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Solar Cookers, Creative Capacity Building, Trip Preparation'
 uid: 98a4193c-1cdc-77fd-dd38-ec6bae808b8f
 video_files:

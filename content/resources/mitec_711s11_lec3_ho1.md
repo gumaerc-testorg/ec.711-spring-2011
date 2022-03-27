@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 3:  Lighting, Biogas'
 parent_type: CourseSection
+parent_uid: 70e2edb1-3971-cd3b-0091-3ae541bcdecc
 resourcetype: Document
 title: Lighting "quiz"
 uid: e80a54db-9eb4-782f-351c-845635e2f81c

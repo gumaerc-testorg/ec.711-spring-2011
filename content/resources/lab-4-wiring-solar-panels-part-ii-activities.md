@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Supporting Files
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 4: Wiring Solar Panels, Part II: Activities'
 uid: 97a34ce7-5fb2-a230-54a4-c6c113127714
 video_files:

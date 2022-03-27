@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 6: Cooking, Stoves & Fuel'
 parent_type: CourseSection
+parent_uid: 40a90435-c335-4575-5ca5-aed11bc98c6a
 resourcetype: Document
 title: Lecture 6 slides
 uid: b5ddc231-7eae-b196-0423-a15ed805f2e2

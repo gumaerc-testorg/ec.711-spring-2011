@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 6: Cooking, Stoves & Fuel'
 parent_type: CourseSection
+parent_uid: 40a90435-c335-4575-5ca5-aed11bc98c6a
 resourcetype: Document
 title: Briquetting checklist & documentation form
 uid: 2338907a-2ce8-d8fb-94b0-c51900eeb478

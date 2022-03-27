@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b769b31f-283d-ae0e-ca5f-75068d997bdb
 resourcetype: Document
 title: Dehusking Insert
 uid: 09af6dbe-00f3-e660-d48a-d65898730f49

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b769b31f-283d-ae0e-ca5f-75068d997bdb
 resourcetype: Document
 title: Solar Cellphone Charger
 uid: 98bd865f-3f4f-faee-b99f-bc1c3c3c18be

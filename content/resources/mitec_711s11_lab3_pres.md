@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 3:  Lighting, Biogas'
 parent_type: CourseSection
+parent_uid: 70e2edb1-3971-cd3b-0091-3ae541bcdecc
 resourcetype: Document
 title: Lecture slides for Lab 3
 uid: 04e90045-0484-5ba5-7a66-385d763c7ba1

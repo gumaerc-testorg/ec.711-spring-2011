@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 8: Community Partner Trips'
 parent_type: CourseSection
+parent_uid: fb9d6e56-eac4-97fb-24b4-6d3ac31a62da
 resourcetype: Document
 title: Packing List
 uid: a388dd24-4c66-0713-6a64-9ec922e8f499

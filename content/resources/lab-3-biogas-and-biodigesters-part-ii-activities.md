@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Supporting Files
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 3: Biogas and Biodigesters, Part II: Activities'
 uid: 284a0b04-cb56-51fa-1d60-257d13b0abf3
 video_files:

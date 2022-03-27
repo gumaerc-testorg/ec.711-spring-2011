@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 5: Wind and Micro-Hydro'
 parent_type: CourseSection
+parent_uid: 5dd5186b-4a86-f3ff-771b-545e19e9b505
 resourcetype: Document
 title: 'Fuel from the Fields: Charcoal from Agricultural Waste'
 uid: 2b532151-7d0b-0e6a-217a-eeaba60c6bbe

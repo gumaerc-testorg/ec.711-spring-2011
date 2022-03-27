@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b769b31f-283d-ae0e-ca5f-75068d997bdb
 resourcetype: Document
 title: Teamwork self-assessment rubric
 uid: 90f493cd-d582-cf2a-1cde-3aec846fda5a

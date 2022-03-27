@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 2: Energy Storage; Measurement Lab'
 parent_type: CourseSection
+parent_uid: bd09c1cc-93fd-481d-3945-6e105dc16816
 resourcetype: Document
 title: Lecture 2 slides
 uid: f7c2c564-359a-741e-f5de-50dfd675098b

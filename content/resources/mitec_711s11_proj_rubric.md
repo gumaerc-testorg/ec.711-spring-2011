@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b769b31f-283d-ae0e-ca5f-75068d997bdb
 resourcetype: Document
 title: Design Project grading rubric used by instructors
 uid: 16c21737-5a56-941c-0f49-bf3df639d86d

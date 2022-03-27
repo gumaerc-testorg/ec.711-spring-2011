@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
 parent_type: CourseSection
+parent_uid: 32a22e0d-e0ad-d673-42ce-41445297fce7
 resourcetype: Document
 title: Units check-in "quiz"
 uid: 18016923-a66d-c59a-17b0-6ae7926c5a81

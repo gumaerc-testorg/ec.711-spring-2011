@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 4: Solar Energy'
 parent_type: CourseSection
+parent_uid: 97d18199-d8e1-30f9-6762-504a4894e1bc
 resourcetype: Document
 title: Lecture 4 slides
 uid: 606b06bc-1e38-fa58-d271-651476d1469e

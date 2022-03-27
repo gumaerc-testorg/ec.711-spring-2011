@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab 1 Instructions
 parent_type: CourseSection
+parent_uid: 6e9b9bab-a0f9-93d0-5be2-369160b9b3ca
 resourcetype: Image
 title: lab1s11.jpg
 uid: 08ed6e0e-2453-a588-061c-56128dd14d5d

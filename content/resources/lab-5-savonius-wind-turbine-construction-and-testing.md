@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Supporting Files
@@ -35,6 +36,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 5: Savonius Wind Turbine Construction and Testing'
 uid: b9bf46e5-9ba1-eb6f-1550-4c934e7fb9e0
 video_files:

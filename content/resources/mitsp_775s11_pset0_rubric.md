@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 0
 parent_type: CourseSection
+parent_uid: dafbfcc9-92f8-550b-177a-67a95cb65180
 resourcetype: Document
 title: MITSP_775S11_pset0_rubric.pdf
 uid: 74baee58-a69e-9d65-5612-d7aaaaeaad76

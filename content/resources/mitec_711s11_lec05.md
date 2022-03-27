@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 5: Wind and Micro-Hydro'
 parent_type: CourseSection
+parent_uid: 5dd5186b-4a86-f3ff-771b-545e19e9b505
 resourcetype: Document
 title: MITEC_711S11_lec05.pdf
 uid: ee63a3af-81a2-4cd8-ed02-35f7c98907b9

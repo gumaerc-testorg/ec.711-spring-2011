@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab 1 Analysis & Report
 parent_type: CourseSection
+parent_uid: 292bd34a-d8ec-b814-01c0-de0ef3145cd4
 resourcetype: Document
 title: Understanding Pedal Power
 uid: 15286019-b5a0-6fde-2d43-af6c00f460d4

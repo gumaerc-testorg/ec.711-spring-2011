@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b769b31f-283d-ae0e-ca5f-75068d997bdb
 resourcetype: Document
 title: Barrel on Fire
 uid: e39f6e11-e20a-4ab9-c3d0-adfd836c580e
