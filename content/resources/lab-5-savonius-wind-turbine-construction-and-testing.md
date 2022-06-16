@@ -4,13 +4,14 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: 'Lab 5 Instructions
 
   ------------------
 
 
-  *   Mussell, Dave. ["Build Your Own Wind Turbine." (PDF - 1.5MB)](resources/mitec_711s11_lab5)
+  *   Mussell, Dave. ["Build Your Own Wind Turbine." (PDF - 1.5MB)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lab5)
   Published by the Pembina Institute and The Ontario Trillium Foundation, 2006. (Courtesy
   of the GreenLearning Canada Foundation ([http://www.greenlearning.ca](http://www.greenlearning.ca)
   and [http://www.re-energy.ca](http://www.re-energy.ca)). Used with permission.)
@@ -51,3 +52,6 @@ video_metadata:
 **Description:** In this lab, students use soda bottles, wire, and magnets to construct small wind turbines on wooden bases. They use the Savonius wind turbine design and troubleshoot various problems that come up, finally calculating voltage and current when finished.
 
 **Speaker:** Amit Gandhi
+
+
+

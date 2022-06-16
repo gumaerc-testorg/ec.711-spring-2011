@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Project Results
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Four student teams (juice bag sealer, charcoal burn, solar charger for cell phones, rice dehusking) present initial designs, preliminary test results, and next steps, and get feedback from guest reviewers and mentors.
 
 **Speaker:** MIT Students
+
+
+

@@ -4,17 +4,18 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: 'Readings
 
   --------
 
 
-  *   [D-Lab Do-It Module: Fuel from the Fields Charcoal (PDF - 1.4MB)](resources/mitec_711s11_read6a)
+  *   [D-Lab Do-It Module: Fuel from the Fields Charcoal (PDF - 1.4MB)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_read6a)
 
-  *   [Carbonization checklist & documentation form (PDF)](resources/mitec_711s11_read6b)
+  *   [Carbonization checklist & documentation form (PDF)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_read6b)
 
-  *   [Briquetting checklist & documentation form (PDF)](resources/mitec_711s11_read6c)'
+  *   [Briquetting checklist & documentation form (PDF)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_read6c)'
 parent_title: 'Week 6: Cooking, Stoves & Fuel'
 parent_type: CourseSection
 related_resources_text: ''
@@ -35,3 +36,6 @@ video_metadata:
 **Description:** In this lab, the class does a charcoal burn from start to finish, loading the drum, lighting it, and sealing it after some of the burn. While the burn is going on, they grate yucca to make a binder and make briquettes using the contents from a previous burn.
 
 **Speaker:** Amy Banzaert
+
+
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for the second week of the course, including
+  lecture and lab videos, readings, and assignments.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -20,7 +22,7 @@ videos:
 Assignments
 -----------
 
-[Problem Set 2]({{< baseurl >}}/video_galleries/energy-storage/problem-set-2-personal-energy-consumption-challenge) (Personal Energy Consumption challenge){{< anchor "ps2" >}}{{< /anchor >}}
+{{% resource_link 8c249fc1-ff67-2f6f-b82a-52720d7b2694 "Problem Set 2" %}} (Personal Energy Consumption challenge){{< anchor "ps2" >}}{{< /anchor >}}
 
 ### Project Work
 

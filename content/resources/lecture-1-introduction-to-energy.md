@@ -4,14 +4,15 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
-optional_text: '[Lecture 1 slides (PDF - 2.1MB)](resources/mitec_711s11_lec01)
+optional_text: '[Lecture 1 slides (PDF - 2.1MB)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec01)
 
 
-  [Country facts "quiz" (PDF)](resources/mitec_711s11_lec01_ho1)
+  [Country facts "quiz" (PDF)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec01_ho1)
 
 
-  [Units check-in "quiz" (PDF)](resources/mitec_711s11_lec01_ho2)'
+  [Units check-in "quiz" (PDF)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec01_ho2)'
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
 parent_type: CourseSection
 related_resources_text: ''
@@ -32,3 +33,6 @@ video_metadata:
 **Description:** This lecture introduces fundamental energy concepts: energy around in the world, energy units, a quick electricity review, and some estimation practice activities. The session ends with a syllabus overview.
 
 **Speaker:** Amy Banzaert
+
+
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes the project work that occurs predominantly in the
+  2nd half of the class, and includes documentation of student work.
 is_media_gallery: true
 learning_resource_types:
 - Projects
@@ -12,11 +14,11 @@ videos:
   website: ec-711-d-lab-energy-spring-2011
 ---
 
-During the first seven weeks of class, project work builds incrementally as described in each week's lectures, labs, and assignments. The [Project Work list]({{< baseurl >}}/video_galleries/wind-micro-hydro#Assignments) in Week 5 Assignments summarizes much of that preliminary work.
+During the first seven weeks of class, project work builds incrementally as described in each week's lectures, labs, and assignments. The {{% resource_link 5dd5186b-4a86-f3ff-771b-545e19e9b505 "Project Work list" "#Assignments" %}} in Week 5 Assignments summarizes much of that preliminary work.
 
 After the spring break trips, the class focuses intensely on their projects. This page describes the project design process and deliverables starting with Week 9.
 
-Examples of student work can be found on the [Project Results]({{< baseurl >}}/video_galleries/projects/project-results) page.
+Examples of student work can be found on the {{% resource_link cc396362-e27a-a416-9fbb-66fd1cb19b76 "Project Results" %}} page.
 
 {{< video-gallery "b769b31f-283d-ae0e-ca5f-75068d997bdb" >}}
 
@@ -34,7 +36,7 @@ The wiki should include key documents (project specs, etc.), an ever-changing sc
 
 At this review, you'll have 10 minutes to present your project, and then 15 minutes for discussion and questions. If you want to use powerpoint, send me your presentation by 9 am that morning. You should bring your working prototype and show it working. For teams that will need fire, for example, you should think about whether you want to do your presentation outside, but also have a weather backup, like a video of your prototype working. You should also have a looks-like prototype, either by making your working prototype one that looks like it's supposed to look like, or by making a second prototype. (For example, if you were inventing an iphone, you could have one prototype that was on a laptop that showed all the software functionality of the iphone (works-like), and a metal and glass model that didn't work but showed how it'd look, or you could have the whole iphone all together, depending on how far along you were in your design process. There will be some people at the design review who will be brand new, so as you prepare your presentation, assume a scientific audience with no background on your project or D-Lab Energy whatsoever.  
 
-A video of the initial design review presentations is on the [Project Results]({{< baseurl >}}/video_galleries/projects/project-results) page.
+A video of the initial design review presentations is on the {{% resource_link cc396362-e27a-a416-9fbb-66fd1cb19b76 "Project Results" %}} page.
 
 ### Final Design Review & Presentations (Week 14)
 
@@ -45,7 +47,7 @@ Our final presentations will be part of a Saturday showcase of the projects from
 3.  **Final Design Review**. During the poster session, your team will break off for a bit for your final design review presentation. At this presentation, you'll have 10 minutes to present your project, and then 10 minutes for discussion and questions (20 minutes total). You should bring a working, good-looking prototype and show it working. For teams that can't demonstrate it working in a classroom because of fire issues or something, show a video for the working aspect. In this case, your prototype should be at full on iPhone version, not split into a "looks like" and "works like." There will be some people at the design review who will be brand new, so as you prepare your presentation, assume a scientific audience with no background on your project or D-Lab Energy whatsoever.  
     
 
-A video of the final design review presentations is on the [Project Results]({{< baseurl >}}/video_galleries/projects/project-results) page.
+A video of the final design review presentations is on the {{% resource_link cc396362-e27a-a416-9fbb-66fd1cb19b76 "Project Results" %}} page.
 
 ### Final Report
 
@@ -64,10 +66,10 @@ The purpose of the final report is to document your project so that community pa
 
 As always when writing, be sure to cite any references properly and edit carefully.
 
-Sample final reports can found on the [Project Results]({{< baseurl >}}/video_galleries/projects/project-results) page.
+Sample final reports can found on the {{% resource_link cc396362-e27a-a416-9fbb-66fd1cb19b76 "Project Results" %}} page.
 
 ### Grading Rubrics
 
-[Design Project grading rubric used by instructors (PDF)]({{< baseurl >}}/resources/mitec_711s11_proj_rubric)
+{{% resource_link 16c21737-5a56-941c-0f49-bf3df639d86d "Design Project grading rubric used by instructors (PDF)" %}}
 
-[Teamwork self-assessment rubric (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mitec_711s11_proj_teamass)
+{{% resource_link "90f493cd-d582-cf2a-1cde-3aec846fda5a" "Teamwork self-assessment rubric (PDF)" %}}

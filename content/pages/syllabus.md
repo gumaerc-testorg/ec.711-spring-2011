@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, aims,
+  objectives, structure, readings, use of Spanish, project work, and the schedule
+  of class topics, labs, and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

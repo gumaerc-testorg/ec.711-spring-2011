@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
-optional_text: '[Lab 3 slides (PDF)](resources/mitec_711s11_lab3)'
+optional_text: '[Lab 3 slides (PDF)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lab3)'
 parent_title: 'Week 3:  Lighting, Biogas'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** In this pre-lab lecture, students learn about using organic matter to create biogas for cooking and when biodigesters are advantagous vs impractical. Finally, they go over a specific biodigester design in great detail, learning how each part works.
 
 **Speaker:** Amit Gandhi
+
+
+

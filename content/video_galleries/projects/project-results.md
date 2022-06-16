@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents student design review videos and final reports on
+  their projects.
 is_media_gallery: true
 learning_resource_types:
 - Projects
@@ -51,7 +53,7 @@ _Team_: Jessica Artiles, Vivian Dien, Kurt Tsuo
 Low cost dugout and sealing process improves the agri-waste charcoal-making process by reducing heat exposure and safety risk to the user
 {{< tdclose >}}
 {{< tdopen >}}
-[Barrel on Fire report (PDF - 1.5MB)]({{< baseurl >}}/resources/mitec_711s11_proj_rptfire)
+{{% resource_link e39f6e11-e20a-4ab9-c3d0-adfd836c580e "Barrel on Fire report (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ _Team_: Benji Moncivaiz, Bensey Schnip, Missy Showers, MIT student
 A cheap, local process which dehusks rice more conveniently; this allows for personal consumption and income generation
 {{< tdclose >}}
 {{< tdopen >}}
-[Dehusking Insert report (PDF)]({{< baseurl >}}/resources/mitec_711s11_proj_rpthusk)
+{{% resource_link 09af6dbe-00f3-e660-d48a-d65898730f49 "Dehusking Insert report (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +89,7 @@ _Team_: Carter Chang, Brianna Conrad, Bus Leonard, Emily Rosser
 Improvements on a low-power heat sealer device to preserve surplus orange juice in single-serving plastic bags for transport and later sale
 {{< tdclose >}}
 {{< tdopen >}}
-[Orange Juice Bag Sealer report (PDF)]({{< baseurl >}}/resources/mitec_711s11_proj_rptseal)
+{{% resource_link 1494323b-6c9e-7f35-cd88-6582d22ab20a "Orange Juice Bag Sealer report (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ _Team_: Elizabeth de Regt, Juan D. Diaz, Sidhant Pai
 Compact device to convert solar energy to a usable voltage for charging cellphones, to be built locally in Nicaragua
 {{< tdclose >}}
 {{< tdopen >}}
-[Solar Cellphone Charger report (PDF)]({{< baseurl >}}/resources/mitec_711s11_proj_rptchrg)
+{{% resource_link 98bd865f-3f4f-faee-b99f-bc1c3c3c18be "Solar Cellphone Charger report (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

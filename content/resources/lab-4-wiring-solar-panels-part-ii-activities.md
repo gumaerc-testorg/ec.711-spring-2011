@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
-optional_text: '[Lab 4 instructions and writeup](video_galleries/solar/lab-4-instructions-and-writeup)'
+optional_text: '[Lab 4 instructions and writeup](/courses/ec-711-d-lab-energy-spring-2011/video_galleries/solar/lab-4-instructions-and-writeup)'
 parent_title: 'Week 4: Solar Energy'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** In this lab, students connect several small PV panels together into a circuit. They then take their solar arrays outside and compare the output of each individual panel to that of the array as a whole, and measure the effect shading has on the array.
 
 **Speaker:** Amit Gandhi
+
+
+

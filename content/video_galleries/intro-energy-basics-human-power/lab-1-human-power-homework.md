@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to analyze and report
+  on a lab on human power.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
@@ -14,7 +16,7 @@ Water Pumping
 
 How much more power do you think that you can generate with your legs than your arms? First, estimate the answer.
 
-Then, look up the answer in David Gordon Wilson's paper "Understanding Pedal Power" ([PDF]({{< baseurl >}}/resources/mitec_711s11_lab1_pedal)) (Courtesy of David Gordon Wilson. Used with permission.)
+Then, look up the answer in David Gordon Wilson's paper "Understanding Pedal Power" ({{% resource_link 15286019-b5a0-6fde-2d43-af6c00f460d4 "PDF" %}}) (Courtesy of David Gordon Wilson. Used with permission.)
 
 Record both.
 
@@ -67,4 +69,4 @@ Did the findings from these papers in terms of the efficiency of the methods des
 
 Propose some reasons – from a physics standpoint – why the efficiencies of the methods described might be so superior.
 
-[« Back]({{< baseurl >}}/resources/lab-1-human-power)
+{{% resource_link b03952e4-bdfc-ea49-6227-1aeae1dedb3f "« Back" %}}

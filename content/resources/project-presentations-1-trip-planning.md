@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 7: Trip Planning and Preparations'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This video contains three student team presentations previewing their plans for upcoming visits to Nicaragua and El Salvador community partners, and feedback from instructor Amy Banzaert about those plans.
 
 **Speaker:** MIT Students, Amy Banzaert
+
+
+

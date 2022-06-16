@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for the first week of the course, including
+  lecture and lab videos, readings, and assignments.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -23,12 +25,12 @@ Practical Action. [_Poor People's Energy Outlook 2010_](https://practicalaction.
 
 Reading reaction:
 
-*   [Instructions for reading reaction posts (PDF)]({{< baseurl >}}/resources/mitec_711s11_read_react)
+*   {{% resource_link 8e0e114c-6add-3da2-130f-c85ca3884596 "Instructions for reading reaction posts (PDF)" %}}
 *   Make your initial reaction post before next Monday and then make at least one follow-up post responding to another student's reaction by next Wednesday.
 
 Assignments
 -----------
 
-[Problem Set 0]({{< baseurl >}}/video_galleries/intro-energy-basics-human-power/problem-set-0) (Lantern homework){{< anchor "ps0" >}}{{< /anchor >}}
+{{% resource_link dafbfcc9-92f8-550b-177a-67a95cb65180 "Problem Set 0" %}} (Lantern homework){{< anchor "ps0" >}}{{< /anchor >}}
 
-[Problem Set 1]({{< baseurl >}}/video_galleries/intro-energy-basics-human-power/problem-set-1){{< anchor "ps1" >}}{{< /anchor >}}
+{{% resource_link 5638dda9-48ce-2cd5-f895-13c4a9b480a7 "Problem Set 1" %}}{{< anchor "ps1" >}}{{< /anchor >}}

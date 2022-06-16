@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes the analysis and write-up assignment for Lab 2 on
+  solar power output and efficiency.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Energy Storage; Measurement Lab'
@@ -49,4 +51,4 @@ Conclusion:
 
 What did you learn from the lab that could be applied to designing a solar power system? What were some sources of error in the experiment? How could you have avoided these in the future?
 
-[« Back]({{< baseurl >}}/resources/lab-2-solar-power-measurement-part-ii-activities)
+{{% resource_link 09983496-dbeb-7fa6-9b6e-295c146cbe57 "« Back" %}}

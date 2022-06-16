@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page presents materials associated with spring break trips to community
+  partners in Nicaragua and El Salvador.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -14,11 +16,11 @@ videos:
 Trip Resources
 --------------
 
-[Travel Tips (PDF)]({{< baseurl >}}/resources/mitec_711s11_trip_tips)
+{{% resource_link be777a17-46d4-b228-3888-658b6b114d54 "Travel Tips (PDF)" %}}
 
-[Packing list (PDF)]({{< baseurl >}}/resources/mitec_711s11_trip_pack)
+{{% resource_link a388dd24-4c66-0713-6a64-9ec922e8f499 "Packing list (PDF)" %}}
 
-[Sample equipment travel letter (PDF)]({{< baseurl >}}/resources/mitec_711s11_trip_ltr)
+{{% resource_link bdb620eb-52db-f826-7672-ea1d6ff15fc8 "Sample equipment travel letter (PDF)" %}}
 
 Post-Trip Assignments
 ---------------------

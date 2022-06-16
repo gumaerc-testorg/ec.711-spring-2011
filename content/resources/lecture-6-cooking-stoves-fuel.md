@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
-optional_text: '[Lecture 6 slides (PDF - 2.4MB)](resources/mitec_711s11_lec06)'
+optional_text: '[Lecture 6 slides (PDF - 2.4MB)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec06)'
 parent_title: 'Week 6: Cooking, Stoves & Fuel'
 parent_type: CourseSection
 related_resources_text: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** In the developing world, widely used cooking technologies (especially biomass) pose mounting health risks, high expense, and enviromental damage. This lecture considers alternative fuels and stove designs, with a focus on the D-Lab charcoal project.
 
 **Speaker:** Amy Banzaert
+
+
+

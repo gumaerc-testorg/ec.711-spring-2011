@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents instructions and the writeup assignment for Lab 4
+  on wiring solar panels.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 4: Solar Energy'
@@ -25,4 +27,4 @@ Cover up about one quarter of one cell… how does doing so affect the output of
 
 What did you learn from the lab that could be applied to building solar panels? What were the most difficult aspects of wiring the solar cells together? What are some changes you could make to the process to make it easier and/or less painful?
 
-[« Back]({{< baseurl >}}/resources/lab-4-wiring-solar-panels-part-ii-activities)
+{{% resource_link 97a34ce7-5fb2-a230-54a4-c6c113127714 "« Back" %}}

@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides materials for the fifth week of the course, including
+  lecture and lab videos, readings, and assignments.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -21,7 +23,7 @@ Readings
 
 BOPrenuer. "[Ending Poverty (period)](http://bopreneur.blogspot.com/2010/01/ending-poverty-period.html)." Blog posting, January 8, 2010.
 
-Fuel from the Fields Team. ["Fuel from the Fields: Charcoal from Agricultural Waste." (PDF)]({{< baseurl >}}/resources/mitec_711s11_read5_fuel) Technical Brief. Practical Action, 2010. (Courtesy of Practical Action. Used with permission.)
+Fuel from the Fields Team. {{% resource_link 2b532151-7d0b-0e6a-217a-eeaba60c6bbe "\"Fuel from the Fields: Charcoal from Agricultural Waste.\" (PDF)" %}} Technical Brief. Practical Action, 2010. (Courtesy of Practical Action. Used with permission.)
 
 Assignments
 -----------

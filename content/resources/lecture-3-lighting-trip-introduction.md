@@ -4,11 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
-optional_text: '[Lecture 3 slides (PDF - 4.6MB)](resources/mitec_711s11_lec03)
+optional_text: '[Lecture 3 slides (PDF - 4.6MB)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec03)
 
 
-  [Lighting "quiz" (PDF)](resources/mitec_711s11_lec3_ho1)'
+  [Lighting "quiz" (PDF)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec3_ho1)'
 parent_title: 'Week 3:  Lighting, Biogas'
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 **Description:** This lecture on lighting for the developing world covers fundamentals of lighting and some example solutions. A survey of class projects from previous years and intro to this year's community partners finish the session.
 
 **Speaker:** Amy Banzaert
+
+
+

@@ -4,11 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
-optional_text: '[Lab 2 instructions](video_galleries/energy-storage/lab-2-energy-storage-solar-panel)
+optional_text: '[Lab 2 instructions](/courses/ec-711-d-lab-energy-spring-2011/video_galleries/energy-storage/lab-2-energy-storage-solar-panel)
 
 
-  [Lab 2 writeup assignment](video_galleries/energy-storage/lab-2-energy-storage-solar-panel-write-up)'
+  [Lab 2 writeup assignment](/courses/ec-711-d-lab-energy-spring-2011/video_galleries/energy-storage/lab-2-energy-storage-solar-panel-write-up)'
 parent_title: 'Week 2: Energy Storage; Measurement Lab'
 parent_type: CourseSection
 related_resources_text: ''
@@ -42,3 +43,6 @@ Students also get more instruction and hands-on time with various workshop tasks
 *   Using a hand riveter
 
 **Speaker:** Amit Gandhi, Amy Banzaert
+
+
+

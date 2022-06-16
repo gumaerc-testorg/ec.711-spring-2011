@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes the procedures for the solar power output and efficiency
+  lab.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Energy Storage; Measurement Lab'
@@ -37,4 +39,4 @@ Shading Module
 
 In this module, you will examine how the efficiency of the solar panel drops when the solar panel is covered. You will be covering the solar panel in two ways, placing a cover that is perpendicular to the individual cells and then placing a cover that is parallel to them. Measure the exposed surface area and take at least 10 different data points, recording the exposed surface area and output voltage (make sure you also write down the resistance you are using to calculate power later).
 
-[« Back]({{< baseurl >}}/resources/lab-2-solar-power-measurement-part-ii-activities)
+{{% resource_link 09983496-dbeb-7fa6-9b6e-295c146cbe57 "« Back" %}}

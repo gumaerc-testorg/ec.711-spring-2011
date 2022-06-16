@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 8: Community Partner Trips'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Three student teams give 20 minute presentations about their week-long visits to community partners, in which they test and refine various energy project designs.
 
 **Speaker:** MIT Students, Amy Banzaert
+
+
+

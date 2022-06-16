@@ -4,11 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Supporting Files
-optional_text: '[Lab 1 instructions](video_galleries/intro-energy-basics-human-power/lab-1-human-power-instructions)
+optional_text: '[Lab 1 instructions](/courses/ec-711-d-lab-energy-spring-2011/video_galleries/intro-energy-basics-human-power/lab-1-human-power-instructions)
 
 
-  [Lab 1 homework](video_galleries/intro-energy-basics-human-power/lab-1-human-power-homework)'
+  [Lab 1 homework](/courses/ec-711-d-lab-energy-spring-2011/video_galleries/intro-energy-basics-human-power/lab-1-human-power-homework)'
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
 parent_type: CourseSection
 related_resources_text: ''
@@ -33,3 +34,6 @@ video_metadata:
 *   Woodshop training
 
 **Speaker:** Amy Banzaert, Amit Gandhi
+
+
+

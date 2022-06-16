@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for the fourth week of the course, including
+  lecture and lab videos, readings, and assignments.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -20,6 +22,6 @@ videos:
 Readings
 --------
 
-\[[Polak]({{< baseurl >}}/pages/syllabus#Polak)\], Chapters 3 and 4.
+\[{{% resource_link f03094f3-6e60-d35c-d0bb-ed00551f4c2f "Polak" "#Polak" %}}\], Chapters 3 and 4.
 
 Make your initial reading reaction post before next Monday and then make at least one follow-up post responding to another student's reaction by next Wednesday.
