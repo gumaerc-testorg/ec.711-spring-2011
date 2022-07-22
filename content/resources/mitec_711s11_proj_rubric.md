@@ -6,6 +6,7 @@ file: /courses/ec-711-d-lab-energy-spring-2011/16c217375a56941c0f49bf3df639d86d_
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Design Project grading rubric used by instructors
 uid: 16c21737-5a56-941c-0f49-bf3df639d86d
 ---
 This resource contains the information related to Design Project grading rubric used by instructors.
-

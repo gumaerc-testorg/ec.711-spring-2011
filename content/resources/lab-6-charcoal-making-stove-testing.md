@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: 'Readings
@@ -36,6 +37,4 @@ video_metadata:
 **Description:** In this lab, the class does a charcoal burn from start to finish, loading the drum, lighting it, and sealing it after some of the burn. While the burn is going on, they grate yucca to make a binder and make briquettes using the contents from a previous burn.
 
 **Speaker:** Amy Banzaert
-
-
 

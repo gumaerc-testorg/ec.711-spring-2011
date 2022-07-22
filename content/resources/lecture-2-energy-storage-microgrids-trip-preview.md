@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: '[Lecture 2 slides (PDF)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec02)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This lecture explores energy storage needs in developing countries. It also includes a review of some introductory topics, pedal power, estimation exercises, and a preview of the spring break field trip.
 
 **Speaker:** Amy Banzaert
-
-
 

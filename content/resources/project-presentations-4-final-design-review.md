@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Four student teams (juice bag sealer, charcoal barrel improvement, solar charger for cell phones, rice dehusking) give final presentations and demonstrations of their projects, at the D-Lab Spring Showcase event.
 
 **Speaker:** MIT Students
-
-
 

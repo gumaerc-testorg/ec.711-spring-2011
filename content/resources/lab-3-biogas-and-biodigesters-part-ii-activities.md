@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: '[Lab 3 instructions and writeup assignment (PDF)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lab3_pres)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** In this lab, students make small working biodigesters, building a base and piping and putting an animal waste slurry into a small soda bottle. They also learn about the design of SODIS bags and, using sheets of plastic, make SODIS bags.
 
 **Speaker:** Amit Gandhi, Rebecca Smith
-
-
 

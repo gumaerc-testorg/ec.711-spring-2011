@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** In this pre-lab lecture, students learn about the sun and its pluses and minuses as a source of energy, and the various inefficiencies throughout the process of harvesting, storing, then using solar power.
 
 **Speaker:** Amit Gandhi
-
-
 

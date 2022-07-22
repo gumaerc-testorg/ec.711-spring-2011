@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: '[Lab 2 instructions](/courses/ec-711-d-lab-energy-spring-2011/video_galleries/energy-storage/lab-2-energy-storage-solar-panel)
@@ -43,6 +44,4 @@ Students also get more instruction and hands-on time with various workshop tasks
 *   Using a hand riveter
 
 **Speaker:** Amit Gandhi, Amy Banzaert
-
-
 

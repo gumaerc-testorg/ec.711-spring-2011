@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Schematic with dimensions for four pieces of wood.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab 1 Instructions
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lab1s11.jpg
 uid: 08ed6e0e-2453-a588-061c-56128dd14d5d
 ---
 Woodworking design for shop training.
-

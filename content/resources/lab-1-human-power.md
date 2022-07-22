@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: '[Lab 1 instructions](/courses/ec-711-d-lab-energy-spring-2011/video_galleries/intro-energy-basics-human-power/lab-1-human-power-instructions)
@@ -34,6 +35,4 @@ video_metadata:
 *   Woodshop training
 
 **Speaker:** Amy Banzaert, Amit Gandhi
-
-
 

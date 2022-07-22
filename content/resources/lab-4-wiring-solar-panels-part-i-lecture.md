@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** In this pre-lab lecture, students learn the basics about how photovoltaic solar panels work. They also learn about various solar thermal technologies, and the advantages to using SODIS bags for solar water disinfection.
 
 **Speaker:** Amit Gandhi
-
-
 

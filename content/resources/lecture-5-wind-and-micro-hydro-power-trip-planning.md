@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: '[Lecture 5 slides (PDF - 2.7MB)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec05)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Wind and water are important potential energy sources in the developing world. This lecture covers design considerations and examples of wind and micro-hydro energy systems.
 
 **Speaker:** Amy Banzaert
-
-
 

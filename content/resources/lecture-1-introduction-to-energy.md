@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: '[Lecture 1 slides (PDF - 2.1MB)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lec01)
@@ -33,6 +34,4 @@ video_metadata:
 **Description:** This lecture introduces fundamental energy concepts: energy around in the world, energy units, a quick electricity review, and some estimation practice activities. The session ends with a syllabus overview.
 
 **Speaker:** Amy Banzaert
-
-
 

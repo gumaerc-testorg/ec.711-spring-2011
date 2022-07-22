@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Supporting Files
 optional_text: 'Lab 5 Instructions
@@ -52,6 +53,4 @@ video_metadata:
 **Description:** In this lab, students use soda bottles, wire, and magnets to construct small wind turbines on wooden bases. They use the Savonius wind turbine design and troubleshoot various problems that come up, finally calculating voltage and current when finished.
 
 **Speaker:** Amit Gandhi
-
-
 
