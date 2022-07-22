@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Week 2: Energy Storage; Measurement Lab'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lab 2: Solar Power Measurement, Part I: Lecture'
 uid: 5e800d0e-334f-0e1e-a68b-69dd206b63fa
 video_files:
@@ -17,3 +28,4 @@ video_metadata:
 **Description:** In this pre-lab lecture, students learn about the sun and its pluses and minuses as a source of energy, and the various inefficiencies throughout the process of harvesting, storing, then using solar power.
 
 **Speaker:** Amit Gandhi
+

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This page describes Problem Set 0, in which students build an LED lantern.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
+parent_type: CourseSection
 parent_uid: 32a22e0d-e0ad-d673-42ce-41445297fce7
 title: Problem Set 0
 uid: dafbfcc9-92f8-550b-177a-67a95cb65180
@@ -19,6 +23,6 @@ Grading criteria:
 
 Bring the lantern to D-Lab no later than one hour before the next class session. Your device should be placed on one of the desks in that room on an 8.5"x11" piece of paper with your name, a very quick sketch of your device, and an explanation - including formula - of how you chose the resistor and what value you used.
 
-[Problem Set 0 Grading Rubric (PDF)]({{< baseurl >}}/resources/mitsp_775s11_pset0_rubric)
+{{% resource_link 74baee58-a69e-9d65-5612-d7aaaaeaad76 "Problem Set 0 Grading Rubric (PDF)" %}}
 
-[« Back]({{< baseurl >}}/video_galleries/intro-energy-basics-human-power#ps0)
+{{% resource_link 32a22e0d-e0ad-d673-42ce-41445297fce7 "« Back" "#ps0" %}}

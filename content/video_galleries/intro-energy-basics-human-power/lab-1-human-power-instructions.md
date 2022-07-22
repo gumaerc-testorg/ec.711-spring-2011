@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section provides instructions for a lab on human power, and includes
+  subsections on water pumping, water carrying, and shop training.  '
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
+parent_type: CourseSection
 parent_uid: 32a22e0d-e0ad-d673-42ce-41445297fce7
 title: Lab 1 Instructions
 uid: 6e9b9bab-a0f9-93d0-5be2-369160b9b3ca
@@ -17,7 +22,7 @@ We will be estimating the power output by pumping water and calculating the pres
 
 _P = p x Q_
 
-where _p_ is pressure (Pa) and _Q_ is the volumetric flow rate (_m3⁄s_)
+where _p_ is pressure (Pa) and _Q_ is the volumetric flow rate (_m{{< sup "3" >}}⁄s_)
 
 For each pump:
 
@@ -41,7 +46,7 @@ For each pump:
 Water Carrying
 --------------
 
-Try out all forms of water carrying. For each method, go from our 2nd floor class room to our 1st floor workshop and back, via the stairs.
+Try out all forms of water carrying. For each method, go from our 2{{< sup "nd" >}} floor class room to our 1{{< sup "st" >}} floor workshop and back, via the stairs.
 
 *   Tump line
 *   Head carry
@@ -55,7 +60,7 @@ Shop Training
 
 In order to familiarize yourselves with the shop equipment and prepare for a future lab, you will have the task of cutting wood and drilling pilot holes in it using a variety of tools. The stock you will have to work from is a 1" x 6" piece of wood that is 8 feet long. In teams of two, you will have to make: one 1" x 6" x 20 cm piece with notches, two 1" x 1" x 30 cm pieces, and one 1" x 1" x 20 cm piece and then drill pilot holes in them. Keep a list of the tools that you are using.
 
-![Schematic with dimensions for four pieces of wood.]({{< resource_file 08ed6e0e-2453-a588-061c-56128dd14d5d >}})
+{{< resource 08ed6e0e-2453-a588-061c-56128dd14d5d >}}
 
 Woodworking design for shop training.
 
@@ -68,4 +73,4 @@ Along with this woodworking assignment, students will also have the opportunity 
 *   Sheet metal bending
 *   Using a pop-rivet tool
 
-[« Back]({{< baseurl >}}/resources/lab-1-human-power)
+{{% resource_link b03952e4-bdfc-ea49-6227-1aeae1dedb3f "« Back" %}}

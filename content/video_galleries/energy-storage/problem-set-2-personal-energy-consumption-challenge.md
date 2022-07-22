@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This page describes the personal energy consumption challenge homework.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 2: Energy Storage; Measurement Lab'
+parent_type: CourseSection
 parent_uid: bd09c1cc-93fd-481d-3945-6e105dc16816
 title: 'Problem Set 2: Personal Energy Consumption Challenge'
 uid: 8c249fc1-ff67-2f6f-b82a-52720d7b2694
@@ -32,4 +36,4 @@ Write about the experience: how hard was it to cut back? Discuss how close you w
 
 If you were forced to use 10% of the energy you currently estimate you're using, what would you do? Where does that 10% goal come from? You may recall from Week #1 that in the US our average annual energy usage per capita is 360 GJ, whereas in Nicaragua it's 25 and in Haiti it's 11.
 
-[« Back]({{< baseurl >}}/video_galleries/energy-storage#ps2)
+{{% resource_link bd09c1cc-93fd-481d-3945-6e105dc16816 "« Back" "#ps2" %}}

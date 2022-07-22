@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This page describes a problem set on lighting.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 3:  Lighting, Biogas'
+parent_type: CourseSection
 parent_uid: 70e2edb1-3971-cd3b-0091-3ae541bcdecc
 title: Problem Set 3
 uid: ca54380a-a427-6bca-928a-60120653283d
@@ -28,4 +32,4 @@ Question 3
 
 Estimation. Normal commercial LEDs are rated at 40 lumens/watt. Suppose you want to design a reading light for households that is placed 50 cm from the reading material. How many LEDs would you use in your light that are rated at 20 mA and 3.6 V? Show all your calculations.
 
-[« Back]({{< baseurl >}}/video_galleries/lighting-biogas#ps3)
+{{% resource_link 70e2edb1-3971-cd3b-0091-3ae541bcdecc "« Back" "#ps3" %}}

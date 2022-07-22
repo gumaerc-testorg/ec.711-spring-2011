@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section provides materials for the sixth week of the course, including
+  lecture and lab videos, readings, and assignments.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 6: Cooking, Stoves & Fuel'
 uid: 40a90435-c335-4575-5ca5-aed11bc98c6a
 videos:
@@ -19,7 +23,7 @@ Assignments
 
 ### Project Milestones
 
-Due this week (as described in [Week 5 Assignments]({{< baseurl >}}/video_galleries/wind-micro-hydro#Assignments))
+Due this week (as described in {{% resource_link 5dd5186b-4a86-f3ff-771b-545e19e9b505 "Week 5 Assignments" "#Assignments" %}})
 
 *   Develop project specifications
 *   Second brainstorm

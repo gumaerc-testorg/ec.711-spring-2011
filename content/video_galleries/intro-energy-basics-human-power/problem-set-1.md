@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page describes Problem Set 1, covering energy storage and estimating
+  energy used.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Introduction, Energy Basics & Human Power'
+parent_type: CourseSection
 parent_uid: 32a22e0d-e0ad-d673-42ce-41445297fce7
 title: Problem Set 1
 uid: 5638dda9-48ce-2cd5-f895-13c4a9b480a7
@@ -38,4 +43,4 @@ Assumption: Hot water for showering is about 105° F
 4.  Suppose you designed a shower head that halved the volumetric flow of water coming out from the shower without any negative impacts on showering. How much money could you save all the residents of MA? How much would you price the product at?
 5.  Inspired by this problem set, you decide to build your own solar water heater with an efficiency of 25%. How large a solar water heater would you have to build so that the average family would have hot showering water? What about all of the residents of MA? You can neglect heat losses in storage/transport.
 
-[« Back]({{< baseurl >}}/video_galleries/intro-energy-basics-human-power#ps1)
+{{% resource_link 32a22e0d-e0ad-d673-42ce-41445297fce7 "« Back" "#ps1" %}}

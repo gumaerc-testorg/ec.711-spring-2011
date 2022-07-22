@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section provides materials for the seventh week of the course, including
+  lecture and lab videos, readings, and assignments.
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 7: Trip Planning and Preparations'
 uid: 374104f0-f3d9-30af-2e10-57b34aa6c451
 videos:
