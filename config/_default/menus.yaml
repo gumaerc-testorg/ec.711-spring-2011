@@ -39,8 +39,28 @@ leftnav:
   name: Projects
   url: /video_galleries/projects/
   weight: 100
+- identifier: dafbfcc9-92f8-550b-177a-67a95cb65180
+  name: Problem Set 0
+  parent: 32a22e0d-e0ad-d673-42ce-41445297fce7
+  url: /video_galleries/intro-energy-basics-human-power/problem-set-0
+  weight: 10
+- identifier: 5638dda9-48ce-2cd5-f895-13c4a9b480a7
+  name: Problem Set 1
+  parent: 32a22e0d-e0ad-d673-42ce-41445297fce7
+  url: /video_galleries/intro-energy-basics-human-power/problem-set-1
+  weight: 20
+- identifier: 8c249fc1-ff67-2f6f-b82a-52720d7b2694
+  name: Problem Set 2
+  parent: bd09c1cc-93fd-481d-3945-6e105dc16816
+  url: /video_galleries/energy-storage/problem-set-2-personal-energy-consumption-challenge
+  weight: 10
+- identifier: ca54380a-a427-6bca-928a-60120653283d
+  name: Problem Set 3
+  parent: 70e2edb1-3971-cd3b-0091-3ae541bcdecc
+  url: /video_galleries/lighting-biogas/problem-set-3
+  weight: 10
 - identifier: cc396362-e27a-a416-9fbb-66fd1cb19b76
   name: Project Results
   parent: b769b31f-283d-ae0e-ca5f-75068d997bdb
   url: /video_galleries/projects/project-results
-  weight: 110
+  weight: 10
