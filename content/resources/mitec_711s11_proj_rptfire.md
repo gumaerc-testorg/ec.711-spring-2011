@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to Barrel on Fire.
 file: /courses/ec-711-d-lab-energy-spring-2011/e39f6e11e20a4ab9c3d0adfd836c580e_MITEC_711S11_proj_rptfire.pdf
+file_size: 1626781
 file_type: application/pdf
 learning_resource_types:
 - Projects

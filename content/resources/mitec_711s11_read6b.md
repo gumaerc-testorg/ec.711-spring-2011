@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains the information related to carbonization checklist. '
 file: /courses/ec-711-d-lab-energy-spring-2011/60955952a9c740f27cf83754d4774592_MITEC_711S11_read6b.pdf
+file_size: 239177
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

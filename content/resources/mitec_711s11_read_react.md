@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to Instructions for reading
   reaction posts.
 file: /courses/ec-711-d-lab-energy-spring-2011/8e0e114c6add3da2130fc85ca3884596_MITEC_711S11_read_react.pdf
+file_size: 164607
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
