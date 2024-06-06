@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Lecture 1 slides.
 file: /courses/ec-711-d-lab-energy-spring-2011/43e7ab6d7e77a873cf5feca4b87785f7_MITEC_711S11_lec01.pdf
+file_size: 2160843
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

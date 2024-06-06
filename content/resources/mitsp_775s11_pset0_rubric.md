@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information related to problem set grading
   rubric.
 file: /courses/ec-711-d-lab-energy-spring-2011/74baee58a69e9d655612d7aaaaeaad76_MITSP_775S11_pset0_rubric.pdf
+file_size: 117347
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
