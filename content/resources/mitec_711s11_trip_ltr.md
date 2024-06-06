@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains the sample letter of equipment travel. '
 file: /courses/ec-711-d-lab-energy-spring-2011/bdb620eb52dbf8267672ea1d6ff15fc8_MITEC_711S11_trip_ltr.pdf
+file_size: 83266
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

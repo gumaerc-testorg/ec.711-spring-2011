@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Lab 3 instructions.
 file: /courses/ec-711-d-lab-energy-spring-2011/612c5dec27642281008a61791f840394_MITEC_711S11_lab3.pdf
+file_size: 289291
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
