@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding week 2: energy storage,
   ouput and efficiency. '
-file: /courses/ec-711-d-lab-energy-spring-2011/f7c2c564359a741ef5de50dfd675098b_MITEC_711S11_lec02.pdf
+file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/f7c2c564359a741ef5de50dfd675098b_MITEC_711S11_lec02.pdf
 file_size: 558064
 file_type: application/pdf
 learning_resource_types: []

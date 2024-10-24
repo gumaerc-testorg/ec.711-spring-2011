@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to Solar Cellphone Charger.
-file: /courses/ec-711-d-lab-energy-spring-2011/98bd865f3f4ffaeeb99fbc1c3c3c18be_MITEC_711S11_proj_rptchrg.pdf
+file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/98bd865f3f4ffaeeb99fbc1c3c3c18be_MITEC_711S11_proj_rptchrg.pdf
 file_size: 919958
 file_type: application/pdf
 learning_resource_types:
