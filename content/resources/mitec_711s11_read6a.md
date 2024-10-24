@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information related to fuel from the fields
   charcoal. '
-file: /courses/ec-711-d-lab-energy-spring-2011/534345fd317e100b558a103f4d5630ff_MITEC_711S11_read6a.pdf
+file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/534345fd317e100b558a103f4d5630ff_MITEC_711S11_read6a.pdf
 file_size: 1491165
 file_type: application/pdf
 learning_resource_types: []

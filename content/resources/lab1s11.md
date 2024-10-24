@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Woodworking design for shop training.
-file: /courses/ec-711-d-lab-energy-spring-2011/08ed6e0e2453a588061c56128dd14d5d_lab1s11.jpg
+file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/08ed6e0e2453a588061c56128dd14d5d_lab1s11.jpg
 file_size: 23321
 file_type: image/jpeg
 image_metadata:
