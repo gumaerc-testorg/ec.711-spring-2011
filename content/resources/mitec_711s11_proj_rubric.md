@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to Design Project grading
   rubric used by instructors.
-file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/16c217375a56941c0f49bf3df639d86d_MITEC_711S11_proj_rubric.pdf
+file: /courses/ec-711-d-lab-energy-spring-2011/16c217375a56941c0f49bf3df639d86d_MITEC_711S11_proj_rubric.pdf
 file_size: 176651
 file_type: application/pdf
 learning_resource_types:
