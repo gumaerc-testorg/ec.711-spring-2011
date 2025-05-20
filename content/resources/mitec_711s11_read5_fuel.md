@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to fuel from the fields:
   charcoal from agricultural waste. '
-file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/2b5321517d0b0e6a217aeeaba60c6bbe_MITEC_711S11_read5_fuel.pdf
+file: /courses/ec-711-d-lab-energy-spring-2011/2b5321517d0b0e6a217aeeaba60c6bbe_MITEC_711S11_read5_fuel.pdf
 file_size: 624300
 file_type: application/pdf
 learning_resource_types: []

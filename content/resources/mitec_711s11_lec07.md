@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 7 slides.
-file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/4dd64dddf4dbaa81899a7f676b0d931c_MITEC_711S11_lec07.pdf
+file: /courses/ec-711-d-lab-energy-spring-2011/4dd64dddf4dbaa81899a7f676b0d931c_MITEC_711S11_lec07.pdf
 file_size: 2268671
 file_type: application/pdf
 learning_resource_types: []

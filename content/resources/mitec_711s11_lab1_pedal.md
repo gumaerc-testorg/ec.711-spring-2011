@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Understanding Pedal Power.
-file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/15286019b5a06fde2d43af6c00f460d4_MITEC_711S11_lab1_pedal.pdf
+file: /courses/ec-711-d-lab-energy-spring-2011/15286019b5a06fde2d43af6c00f460d4_MITEC_711S11_lab1_pedal.pdf
 file_size: 243836
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Units check-in.
-file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/18016923a66dc59a17b06ae7926c5a81_MITEC_711S11_lec01_ho2.pdf
+file: /courses/ec-711-d-lab-energy-spring-2011/18016923a66dc59a17b06ae7926c5a81_MITEC_711S11_lec01_ho2.pdf
 file_size: 170131
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to design process and presentations. '
-file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/354861c275307274f72816ce94549d27_MITEC_711S11_lec8.pdf
+file: /courses/ec-711-d-lab-energy-spring-2011/354861c275307274f72816ce94549d27_MITEC_711S11_lec8.pdf
 file_size: 911251
 file_type: application/pdf
 learning_resource_types:

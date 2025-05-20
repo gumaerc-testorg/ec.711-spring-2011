@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the information related to briquetting checklist '
-file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/2338907a2ce8d8fb94b0c51900eeb478_MITEC_711S11_read6c.pdf
+file: /courses/ec-711-d-lab-energy-spring-2011/2338907a2ce8d8fb94b0c51900eeb478_MITEC_711S11_read6c.pdf
 file_size: 240563
 file_type: application/pdf
 learning_resource_types: []
