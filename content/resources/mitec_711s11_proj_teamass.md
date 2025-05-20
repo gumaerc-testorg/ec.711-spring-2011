@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the teamwork self-assessment rubric. '
-file: /ol-ocw-studio-app/courses/ec-711-d-lab-energy-spring-2011/90f493cdd582cf2a1cde3aec846fda5a_MITEC_711S11_proj_teamass.pdf
+file: /courses/ec-711-d-lab-energy-spring-2011/90f493cdd582cf2a1cde3aec846fda5a_MITEC_711S11_proj_teamass.pdf
 file_size: 158633
 file_type: application/pdf
 learning_resource_types:
