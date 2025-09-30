@@ -15,8 +15,9 @@ optional_text: 'Lab 5 Instructions
 
   *   Mussell, Dave. ["Build Your Own Wind Turbine." (PDF - 1.5MB)](/courses/ec-711-d-lab-energy-spring-2011/resources/mitec_711s11_lab5)
   Published by the Pembina Institute and The Ontario Trillium Foundation, 2006. (Courtesy
-  of the GreenLearning Canada Foundation ([http://www.greenlearning.ca](http://www.greenlearning.ca)
-  and [http://www.re-energy.ca](http://www.re-energy.ca)). Used with permission.)
+  of the GreenLearning Canada Foundation ({{% resource_link "adbed2a3-fcac-4c0b-a49a-f933cf0fb3f6"
+  "http://www.greenlearning.ca" %}} and {{% resource_link "aff56f08-e400-4e7a-b474-355dc1afe2ed"
+  "http://www.re-energy.ca" %}}). Used with permission.)
 
 
   Lab 5 Writeup Assignment

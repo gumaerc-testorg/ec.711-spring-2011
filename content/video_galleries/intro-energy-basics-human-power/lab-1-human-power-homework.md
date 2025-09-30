@@ -26,8 +26,8 @@ If we were able to harness the power that you generated and use it to power LEDs
 
 As a class that focuses on design as well as energy, it is important for you to start thinking about where the technologies that you will be exposed to in this class can be applied. In order to start you on this path, review instructions for each pump:
 
-*   "Building an EMAS Pump" by Paul Cloesen ([DOC](http://paulcloesen.50webs.com/DocEMAS/Build-an-EMAS-pump.doc))
-*   [The Full Belly Project Rocker Pump](https://www.thefullbellyproject.org/products-2)
+*   "Building an EMAS Pump" by Paul Cloesen ({{% resource_link "95a6e991-a7ed-41ff-8911-0549eafcf8ff" "DOC" %}})
+*   {{% resource_link "effb9392-156c-48f7-b41d-44735e1a5ff2" "The Full Belly Project Rocker Pump" %}}
 
 For _each_ pump:
 
@@ -37,8 +37,8 @@ For _each_ pump:
 
 Another commonly used pump in the developing world is the IDE India Treadle Pump. Read this treadle pump case study:
 
-*   Ashden Awards. "[Case Study Summary: International Development Enterprises India (IDEI)](https://www.ashden.org/winners/international-development-enterprises-india-idei)." May 2009.
-*   and this page in Appropredia: [Treadle Pumps](http://www.appropedia.org/Treadle_pumps)
+*   Ashden Awards. "{{% resource_link "4760d88e-f60d-4d98-be43-c5f366b4cb7e" "Case Study Summary: International Development Enterprises India (IDEI)" %}}." May 2009.
+*   and this page in Appropredia: {{% resource_link "b54c889f-bac5-4942-80d4-e27c8cdf9ded" "Treadle Pumps" %}}
 
 How does this treadle pump compare to the cement pump?
 
@@ -60,8 +60,8 @@ If you had to carry 5 gallons of water a mile every day, and a q-drum was not av
 
 Now, read the following abstracts
 
-*   Maloiy, G. M., N. C. Heglund, L. M. Prager, G. A. Cavagna, and C. R. Taylor. "[Energetic Cost of Carrying Loads: Have African Women Discovered an Economic Way?](http://www.ncbi.nlm.nih.gov/pubmed/3951538)" _Nature_ 319, no. 6055 (1986): 668-9.
-*   Bastien, G. J., B. Schepens, P. A. Willems, and N. C. Heglund. "[Energetics of Load Carrying in Nepalese Porters.](http://www.ncbi.nlm.nih.gov/pubmed/15961662)" _Science_ 308, no. 5729 (2005): 1755.
+*   Maloiy, G. M., N. C. Heglund, L. M. Prager, G. A. Cavagna, and C. R. Taylor. "{{% resource_link "71e307ac-f3cb-4889-9b23-873522e4dade" "Energetic Cost of Carrying Loads: Have African Women Discovered an Economic Way?" %}}" _Nature_ 319, no. 6055 (1986): 668-9.
+*   Bastien, G. J., B. Schepens, P. A. Willems, and N. C. Heglund. "{{% resource_link "4cccde99-f49e-4d76-8f2c-0c8378e94c06" "Energetics of Load Carrying in Nepalese Porters." %}}" _Science_ 308, no. 5729 (2005): 1755.
 
 If you find them intriguing, it's easy to get the entire paper online through the libraries; many of the citations are also interesting.
 
