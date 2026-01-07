@@ -41,7 +41,7 @@ During the first seven weeks, the focus of lecture and lab sessions will be a ha
 
 During spring break, students will have the opportunity to travel to Nicaragua and El Salvador to learn first-hand about energy in a developing country, implement small projects or trainings, and identify larger projects to be worked on in the remainder of the class and beyond. This trip is entirely optional and not a formal, credit-bearing part of the class, but highly recommended. Students are expected to contribute $500 toward the cost of the trip; if that amount is prohibitive due to a financial hardship, you should make an appointment with Amy Banzaert to discuss.
 
-For the remainder of the class, students will implement projects in conjunction with their community partners in Nicaragua and El Salvador. There will be one formal design review associated with the project; final presentations both in class and then in the group presentations for all {{% resource_link "b1ece573-9a14-4a1e-92c9-d7b6872c1504" "D-Lab classes" %}} at the end of the term.
+For the remainder of the class, students will implement projects in conjunction with their community partners in Nicaragua and El Salvador. There will be one formal design review associated with the project; final presentations both in class and then in the group presentations for all [D-Lab classes](http://d-lab.mit.edu/courses) at the end of the term.
 
 Credit & Grading
 ----------------
@@ -121,7 +121,7 @@ Muddy Cards
 
 After each class, students will submit "muddy cards" to request more discussion or clarification, and to provide frequent and timely feedback to the instructors. This reference gives background about the goals and methodology of using muddy cards:
 
-*   Worldwide CDIO Initiative. {{% resource_link "42a3af7a-ef81-475d-b62b-458af37af498" "_Muddiest Point in the Lecture (Muddy Cards)_ (PDF)" %}}
+*   Worldwide CDIO Initiative. [_Muddiest Point in the Lecture (Muddy Cards)_ (PDF)](http://www.cdio.org/files/mudcards.pdf)
 
 Guidelines for Project Work During 2{{< sup "nd" >}} Half of Term
 -----------------------------------------------------------------
