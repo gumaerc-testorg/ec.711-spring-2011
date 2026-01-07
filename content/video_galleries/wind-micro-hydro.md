@@ -18,7 +18,7 @@ videos:
 
 ## Readings
 
-BOPrenuer. "{{% resource_link "a4e948d2-5780-4d59-9613-cf2322a14dd8" "Ending Poverty (period)" %}}." Blog posting, January 8, 2010.
+BOPrenuer. "[Ending Poverty (period)](http://bopreneur.blogspot.com/2010/01/ending-poverty-period.html)." Blog posting, January 8, 2010.
 
 Fuel from the Fields Team. {{% resource_link "2b532151-7d0b-0e6a-217a-eeaba60c6bbe" "\"Fuel from the Fields: Charcoal from Agricultural Waste.\" (PDF)" %}} Technical Brief. Practical Action, 2010. (Courtesy of Practical Action. Used with permission.)
 
@@ -46,7 +46,7 @@ Literature search on topics
 
 What exists? How does it function? How is it made? Focus writing on summarize & reflect, not assess — only include sources that pass the assessment
 
-Reference: "{{% resource_link "ee53387c-57b2-4f98-8ce3-6d249be80e9e" "Annotated Bibliographies" %}}," from the Purdue Online Writing Lab (OWL).
+Reference: "[Annotated Bibliographies](http://owl.english.purdue.edu/owl/resource/614/01/)," from the Purdue Online Writing Lab (OWL).
 
 Deliverable: ~2 page annotated bibliography per project
 
@@ -56,9 +56,9 @@ End of Week 5
 Develop project specifications
 {{< tdclose >}}{{< tdopen >}}
 
-How: {{% resource_link "1fa8a24d-1990-4d7d-b5cb-5bb94077c78d" "2.009 Specification lecture slides (PDF)" %}}
+How: [2.009 Specification lecture slides (PDF)](https://web.archive.org/web/20210414180756/https://web.mit.edu/2.009/www/lectures/15_specifications.pdf)
 
-Example: {{% resource_link "a0e6dfc5-9634-42cd-a428-5769b460fe6b" "2.009 Fruit Spec" %}}
+Example: [2.009 Fruit Spec](https://web.archive.org/web/20200129133135/http://web.mit.edu/2.009/www/lectures/15_fruitSpec/specExamples.html)
 
 Deliverable: specs for each project using 2.009 format (attribute, metric, unit, value)   
 It is likely you won't be able to fill in all the values until your trip.
