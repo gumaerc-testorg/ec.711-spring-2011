@@ -37,9 +37,9 @@ As a team, collaboratively sort through your pictures, select the most relevant 
 *   one folder with general trip pictures (about 20-30)
 *   one folder that has truly spectacular photos
 
-Upload the pictures onto the D-Lab Flickr account. Add captions to describe each picture. Use the D-Lab India {{% resource_link "57eb4bbc-0022-40f8-aef8-1663cdd39cf8" "Avani Charcoal & Stove collection" %}} as a sample of how to title, caption and attribute credits to photographs.
+Upload the pictures onto the D-Lab Flickr account. Add captions to describe each picture. Use the D-Lab India [Avani Charcoal & Stove collection](http://www.flickr.com/photos/d-lab/sets/72157623182601149/) as a sample of how to title, caption and attribute credits to photographs.
 
-**Results**: Flickr photo collection of {{% resource_link "f6ffaacf-cc55-4556-b55a-737d8ab9a1ed" "D-Lab Energy 2011 community partner visits" %}}
+**Results**: Flickr photo collection of [D-Lab Energy 2011 community partner visits](http://www.flickr.com/photos/d-lab/collections/72157623356103471/)
 
 ### Presentation
 
