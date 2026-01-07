@@ -18,7 +18,7 @@ videos:
 
 ## Readings
 
-Practical Action. {{% resource_link "53f9fc4c-62c6-4d01-aa98-46e7261ef0a5" "*Poor People's Energy Outlook 2010*" %}}. Read from start to top of p. 38, pp. 50-54, and pp. 55-61.
+Practical Action. [*Poor People's Energy Outlook 2010*](https://practicalaction.org/knowledge-centre/resources/poor-peoples-energy-outlook-2010/). Read from start to top of p. 38, pp. 50-54, and pp. 55-61.
 
 Reading reaction:
 
